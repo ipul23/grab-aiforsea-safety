@@ -6,4 +6,6 @@ Dataset in this competition can be accessed at : https://s3-ap-southeast-1.amazo
 
 Complete information about the challenge accessible at `https://www.aiforsea.com/safety`
 
+For hold-out prediction source code available at `holdout-safety.py`
+
 Enjoy !!
